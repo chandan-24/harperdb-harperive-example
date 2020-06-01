@@ -13,8 +13,9 @@
   "author": "Chandan Kumar",
   "license": "ISC",
   "dependencies": {
+    "dotenv": "^8.2.0",
     "harperive": "^1.0.0",
-    "dotenv": "^8.2.0"
+    "neat-csv": "^5.2.0"
   },
   "bugs": {
     "url": "https://github.com/chandan-24/harperdb-harperive-example/issues"
