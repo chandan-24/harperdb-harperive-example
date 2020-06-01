@@ -1,0 +1,23 @@
+{
+  "name": "harperdb-harperive-example",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandan-24/harperdb-harperive-example.git"
+  },
+  "author": "Chandan Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "harperive": "^1.0.0",
+    "dotenv": "^8.2.0"
+  },
+  "bugs": {
+    "url": "https://github.com/chandan-24/harperdb-harperive-example/issues"
+  },
+  "homepage": "https://github.com/chandan-24/harperdb-harperive-example#readme"
+}
