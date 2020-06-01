@@ -16,7 +16,8 @@ const DB_CONFIG = {
   username: process.env.DB_USER,
   password: process.env.DB_PASS,
   schema: process.env.SCHEMA, // optional params
-  // schema can be passed in the options while quering for any operations.
+  
+  // Alternatively schema can be passed in the options while quering for any operations on specific schema. Refer documanation for more clarification.
 }
 
 const Client = harperive.Client;
